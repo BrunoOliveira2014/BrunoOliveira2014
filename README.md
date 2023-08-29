@@ -1,24 +1,15 @@
-# Welcome!
- 
-## I'm Bruno!
- 
-… 👋 Eae, Sou Bruno de Oliveira Santos.
+Bruno Oliveira
+Olá meu nome é Bruno tenho 19 anos, sou de Maringá-Pr
 
-👀 Sempre interresado em conhecimento.
 
-💞️ Gosto de Animes, Series, Esportes, Jogos.
+## Conecte-se comigo
+[ ![ LinkedIn ] ( https://img.shields.io/badge/LinkedIn-00f?style=for-the-badge&logo=linkedin&logoColor=0E76A8 )] ( https://www.linkedin.com/in/bruno- oliveira-9baa4023a/ )
+[ ![ Instagram ] ( https://img.shields.io/badge/Instagram-00f?style=for-the-badge&logo=instagram )] ( https://www.instagram.com/oliiv_bruno/ )
 
-📫 Trabalhando como Técnico de Suporte.
-
-👨‍💻 Linguagens de Programação que estou aprendendo -> JAVASCRIPT,PHP
-
-👨‍💻 Bancos de dados que Tive contato -> MYSQL, SQLSERVER                                
- 
- 
-## About me 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/bruno-oliveira-9baa4023a/)
-[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]( https://wa.me/44984520061)
- 
-- Thanks for visiting. 
- 
-- Enjoy it!! o/
+## Habilidades
+![ HTML5 ] ( https://img.shields.io/badge/HTML5-00f?style=for-the-badge&logo=html5 )
+![ CSS3 ] ( https://img.shields.io/badge/CSS3-00f?style=for-the-badge&logo=css3&logoColor=264CE4 )
+![ JavaScript ] ( https://img.shields.io/badge/JavaScript-00f?style=for-the-badge&logo=javascript )
+![ Angular ] ( https://img.shields.io/badge/Angular-00f?style=for-the-badge&logo=angular&logoColor=C3002F )
+## Estatísticas do GitHub
+![ Estatísticas do GitHub ] ( https://github-readme-stats.vercel.app/api?username=BrunoOliveira2014&theme=transparent&bg_color=00f&border_color=0f&show_icons=true&icon_color=000&title_color=fff&text_color=fff&hide_title=true&hide=stars )
