@@ -2,7 +2,7 @@
  
 ## I'm Bruno!
  
-… 👋 Eae, Sou Bruno de OLivera Santos.
+… 👋 Eae, Sou Bruno de Oliveira Santos.
 
 👀 Sempre interresado em conhecimento.
 
