@@ -9,7 +9,7 @@
 
 💞️ Gosto de Animes, Series, Esportes, Jogos.
 
-📫 Trabalhando como Técnico de Suporte.
+📫 Trabalhando como  Suporte Técnico.
 
 👨‍💻 Linguagens de Programação que estou aprendendo -> JAVASCRIPT,PHP
 
