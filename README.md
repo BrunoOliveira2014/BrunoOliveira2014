@@ -15,7 +15,7 @@
  
  
 ## About me 
-Portfólio (https://brunooliveira2014.github.io/Portf-lio/)
+[![Portfólio Badge](https://img.shields.io/badge/-Portf%C3%B3lio-blue?style=flat-square&logo=Portf%C3%B3lio&logoColor=black&link=link_do_seu_perfil_no_linkedin)](https://brunooliveira2014.github.io/Portf-lio/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/bruno-oliveira-9baa4023a/)
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]( https://wa.me/44984520061)
  
